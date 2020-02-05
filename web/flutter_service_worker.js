@@ -6,7 +6,7 @@ const RESOURCES = {
 "/icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "/assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"/assets/LICENSE": "6f5cb5f39ab87aec441bc06683b8307b",
+"/assets/LICENSE": "696b2c4f5cd6800d01558f4e0cc215de",
 "/assets/assets/images/icon.png": "2673bc08343c5557f7684cebdf961c3f",
 "/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "/assets/packages/flutter_vector_icons/fonts/AntDesign.ttf": "3a2ba31570920eeb9b1d217cabe58315",
@@ -31,7 +31,7 @@ const RESOURCES = {
 "/assets/AssetManifest.json": "120d47c96c2ce83faa4a78a555c93ce5",
 "/assets/FontManifest.json": "f6f5516706d040a3652032215a256b31",
 "/manifest.json": "14e919b7b1dde549ab334b7ee3ce8412",
-"/main.dart.js": "1b02981d386abbc011a34a7aa2f102ef"
+"/main.dart.js": "59daf6e00936afe563386d6380701d8a"
 };
 
 self.addEventListener('activate', function (event) {
