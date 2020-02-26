@@ -19,7 +19,6 @@ const RESOURCES = {
 "/assets\assets\app_images\rbPlay.jpg": "0eefe595c65fa76bc2747519006f315f",
 "/assets\assets\app_images\rbTitle.jpg": "5cb2b19faa5b39770196e296a3f09148",
 "/assets\assets\app_images\result.jpg": "bcb1529812f6dbe1c717ace12a49def9",
-"/assets\assets\app_images\result.png": "2ff243b5e65ba2282ed7d2ef7045ea07",
 "/assets\assets\app_images\robotgif.gif": "b0e714ff831b25baa3019d55596243fb",
 "/assets\assets\app_images\robotgif.jpg": "44ed8265a9c5eef8f5aec7eb1520472d",
 "/assets\assets\app_images\soundCircle.jpg": "604ee7be569608459c8344886e36bd96",
